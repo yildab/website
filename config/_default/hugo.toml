@@ -170,3 +170,7 @@ pluralizeListTitles = false
     weight = 10
     [languages.en.params.jsonResume]
       present = "present"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
