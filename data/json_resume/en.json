@@ -1,0 +1,170 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Yilda Boukhtouchen",
+    "label": "Ph.D. candidate.",
+    "image": "/Yilda1.JPG",
+    "email": "yilda.boukhtouchen@queensu.ca",
+    "phone": "",
+    "summary": "Hello! My name is Yilda (she/her) and I am a graduate student in the Queen’s University High Energy and Astroparticle Theory group (Q-HEAT). My research interests centre around dark matter phenomenology. I am also passionate about science outreach and communication.",
+    "location": {
+      "city": "Kingston, Ontario"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "yildab",
+        "url": "https://github.com/yildab"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Queen's University, High-Energy Astroparticle Theory Group",
+      "url": "https://www.queensu.ca/academia/vincent/qheat-group/",
+      "area": "Physics",
+      "studyType": "Ph.D.",
+      "startDate": "2020",
+      "endDate": "",
+      "summary": "MSc/PhD student, supervised by Dr. Joseph Bramante.",
+      "highlights": [
+      ]
+    },
+    {
+      "institution": "University of Waterloo",
+      "area": "Mathematical Physics",
+      "studyType": "B.Sc.",
+      "startDate": "2016",
+      "endDate": "2020",
+      "summary": "MSc/PhD student, supervised by Dr. Joseph Bramante.",
+      "highlights": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Queen's University",
+      "location": "Kingston, ON",
+      "description": "Queen's High-Energy Astroparticle Theory Group",
+      "position": "Graduate Researcher",
+      "url": "https://www.queensu.ca/academia/vincent/qheat-group",
+      "startDate": "2020-09-01",
+      "endDate": "",
+      "summary": "MSc/PhD student, supervised by Dr. Joseph Bramante.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Queen's University",
+      "location": "Kingston, ON",
+      "position": "Graduate Teaching Assistant",
+      "startDate": "2020-09-01",
+      "endDate": ""
+    },
+    {
+      "name": "Let's Talk Science, Queen's University",
+      "location": "Kingston, ON",
+      "position": "Scheduling Coordinator (part-time)",
+      "startDate": "2021",
+      "endDate": "2023"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": ["Awarded 'Teacher of the Month'"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Harold M. Cave Travel Scholarship",
+      "date": "2025",
+      "awarder": "Queen's University"
+    },
+    {
+      "title": "Ontario Graduate Scholarship",
+      "date": "2024",
+      "awarder": "Queen's University"
+    },
+    {
+      "title": "Student Achievement Award: Education and Outreach",
+      "date": "2024",
+      "awarder": " Arthur B. McDonald Canadian Astroparticle Physics Research Institute"
+    },
+    {
+      "title": "Ontario Graduate Scholarship",
+      "date": "2023",
+      "awarder": "Queen's University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Secluded dark composites and remnant binding fields",
+      "publisher": "Journal of Cosmology and Astroparticle Physics",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1088/1475-7516/2025/12/034",
+      "summary": "Bleau, K., Boukhtouchen, Y., Bramante, J., & Kulkarni, R."
+    },
+    {
+      "name": "Deconstructive composite dark matter detection",
+      "publisher": "Preprint",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2512.16043",
+      "summary": "Boukhtouchen, Y., Bramante, J., Cappiello, C., & Diamond, M."
+    },
+    {
+      "name": "Loosely bound composite dark matter",
+      "publisher": "Journal of Cosmology and Astroparticle Physics",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1088/1475-7516/2025/03/013",
+      "summary": "Acevedo, J. F., Boukhtouchen, Y., Bramante, J., Cappiello, C., Mohlabeng, G., & Tyagi, N."
+    },
+    {
+      "name": "Dark matter induced baryonic feedback in galaxies",
+      "publisher": "Phys. Rev. D",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1103/PhysRevD.110.083004",
+      "summary": "Acevedo, J. F., An, H., Boukhtouchen, Y., Bramante, J., Richardson, M. L. A., & Sansom, L."
+    },
+    {
+      "name": "Mineral detection of neutrinos and dark matter, a whitepaper",
+      "publisher": "Physics of the Dark Universe",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1016/j.dark.2023.101245",
+      "summary": "Baum, S., Stengel, P., et al."
+    }
+
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": ["Mpeg", "MP4", "GIF"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
