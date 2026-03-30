@@ -4,9 +4,8 @@
   {{ $path := printf "prismjs/plugins/%s/prism-%s.css" . . }}
   {{ $pluginCSS := resources.Get $path }}
   {{ if $pluginCSS }}
-    {{ $importPath := trim $pluginCSS.RelPermalink "/" }}
     {{ printf "/* Import stylesheet for Prism plugin '%s' from '%s' */" . $importPath }}
-    @import "{{ $importPath }}";
+    @import "{{ $path }}";
   {{ end }}
 {{ end }}
 
