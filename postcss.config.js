@@ -14,6 +14,7 @@ export default {
         // Check for imports in <theme-dir>/css/assets
         // TODO use Hugo's built-in inlineImports?
         path.posix.join(import.meta.dirname, "assets", "css"),
+        path.posix.join(import.meta.dirname, "node_modules"),
       ],
     }),
     postcssUrl([
